@@ -1,3 +1,3 @@
 import $ from 'jquery';
 
-$('.title').html('Some text!')
+$('.title').html('Some teddxt')
